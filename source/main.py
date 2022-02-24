@@ -11,3 +11,4 @@ if __name__ == "__main__":
 
     # launch the synchronization
     directory_manager.synchronize_directory(refresh_frequency)
+
