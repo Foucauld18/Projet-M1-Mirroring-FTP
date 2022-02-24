@@ -3,7 +3,7 @@ import os
 import time
 from Directory import Directory
 from File import File
-from talk_to_ftp import TalkToFTP
+from source.talk_to_ftp import TalkToFTP
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 
